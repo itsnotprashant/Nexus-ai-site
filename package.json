@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "motion": "^13.1.1"
+    "motion": "^13.1.1",
+    "three": "^0.169.0"
   }
 }
